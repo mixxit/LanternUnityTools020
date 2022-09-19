@@ -1,0 +1,11 @@
+LanternUnityTools/.idea/
+LanternUnityTools/Library/
+LanternUnityTools/Temp/
+LanternUnityTools/Assets/Plugins/Editor/JetBrains/
+LanternUnityTools/Assets/EQAssets/
+LanternUnityTools/Assets/Content/AssetsToBundle/
+LanternUnityTools/Logs/
+LanternUnityTools/obj/
+LanternUnityTools/UserSettings/
+*.sln
+*.csproj
